@@ -6,6 +6,13 @@ I study EECS in National Taipei University of Technology, also interested in <EE
 I am a core member of <ins>NTUT Programming Club</ins>, and also the <ins>DSC Lead</ins> of NTUT.
 Being such a newbie in the programming community, I am willing to learn anything that makes me improve.
 
+## My Devices
+<p>
+    <img src="https://img.shields.io/badge/Laptop-Macbook Pro-7d7d7d?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Smartphone-Oneplus 6-eb0029?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Watch-MI Band 4-fd4900?style=for-the-badge">
+</p>
+
 ## Technologies
 
 ## Communities
@@ -18,9 +25,8 @@ Being such a newbie in the programming community, I am willing to learn anything
 
 ## Github Stats
 <p>
-<img height=160 src="https://github-readme-stats.vercel.app/api?username=ricky9667&show_icons=true&theme=tokyonight">
-
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky9667&layout=compact&theme=tokyonight">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=ricky9667&show_icons=true&theme=tokyonight">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricky9667&layout=compact&theme=tokyonight">
 </p>
 
 ### Contacts
