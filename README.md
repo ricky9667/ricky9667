@@ -17,6 +17,8 @@ I am a software developer and professional speedcuber from Taiwan. I utilize my 
 
 - 🇹🇼 [Return Taiwan WCA](https://github.com/ricky9667/return-tw-wca): Web extension that changes Chinese Taipei back to Taiwan.
 
+- 🤖 [Cubing TW Notifier](https://github.com/ricky9667/cubing-tw-notifier): Telegram/Discord bot that checks for updates and registrations from Cubing TW.
+
 - 🎖️ My WCA profile: [2015HUSH02](https://www.worldcubeassociation.org/persons/2015HUSH02).
 
 - 📝 Find my projects, links, resume from [ricky-hu.com](https://ricky-hu.com/).
